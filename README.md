@@ -1,4 +1,4 @@
-# MET
+# Matrix Determinant
 
 Welcome to the Machine Learning Engineering teams' online technical interview - thanks for taking the time!
 
